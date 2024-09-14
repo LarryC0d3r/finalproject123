@@ -1,0 +1,66 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border border-box;
+  text-decoration: none;
+}
+
+.header {
+  height: 70px;
+  padding: 20px;
+  background-color: #758694;
+  display: flex;
+  align-items: center;
+}
+
+.navbar {
+  font-family: "Ubuntu";
+}
+
+.navbar a {
+  color: #f7e7dc;
+}
+
+.index > a {
+  margin-right: 100px;
+}
+
+.navbar a:hover {
+  color: #d2e0fb;
+}
+
+.about-us {
+  color: #758694;
+  font-family: "Ubuntu";
+  font-size: 30px;
+  display: flex;
+}
+
+.about-us-section {
+  padding: 20px;
+}
+
+.paragraph {
+  font-family: "Ubuntu";
+  font-size: 30px;
+  color: #f7e7dc;
+  background-color: #758694;
+  border-radius: 10px;
+  padding: 50px;
+}
+
+.ourgoals {
+  color: #758694;
+  font-family: "Ubuntu";
+  font-size: 30px;
+  display: flex;
+}
+
+.paragraph2 {
+  font-family: "Ubuntu";
+  font-size: 30px;
+  color: #f7e7dc;
+  background-color: #758694;
+  border-radius: 10px;
+  padding: 50px;
+}
